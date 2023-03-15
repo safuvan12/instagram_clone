@@ -6,7 +6,7 @@ my new flutter project instagram clone using flutter , firebase firestore ,
 
 statemanagement use: provider
 
-##features:
+# features:
   > Responsive Instagram UI,
   > Email & Password Authentication,
   > Share Posts with Caption,
