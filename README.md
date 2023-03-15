@@ -6,7 +6,7 @@ my new flutter project instagram clone using flutter , firebase firestore ,
 
 statemanagement use: provider
 
-features:
+##features:
   > Responsive Instagram UI,
   > Email & Password Authentication,
   > Share Posts with Caption,
@@ -29,6 +29,7 @@ https://user-images.githubusercontent.com/96603554/225200623-9675e041-9a87-4a4b-
 
 
 ##Installation
+
    After cloning this repository, migrate to instagram-flutter-clone folder. Then, follow the following steps:
 
 > Create Firebase Project,
